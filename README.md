@@ -7,10 +7,10 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning-preparation)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Data Modeling](#data-modeling)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Results/Insights](#results-insights)
+- [Results and Insights](#results-and-insights)
 
 ### Project Overview
 
@@ -27,7 +27,7 @@ Real estate data: The main dataset used for this report is the “austinHousingD
 - Power BI: Data analysis, data modeling, report building
 
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 
 In the first phase of data preparation, I went through the following procedure:
 
@@ -54,7 +54,7 @@ Does median home price change based on different features?
 Does the year the home was constructed affect home price?
 Which words do listing agents most use to describe properties at different price points?
 
-### Results/Insights
+### Results and Insights
 
 The visualizations resulting from this analysis work well to assist homebuyers in finding a suitable property for purchase based on their selection criteria.
 This report also can be utilized by real estate companies, agents, and brokers, to get an overview of the housing market.
