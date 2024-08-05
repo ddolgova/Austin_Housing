@@ -16,6 +16,11 @@
 
 This report provides an understanding of the Austin, Texas real estate market based on home price, features, living area size, lot size, location, and schools nearby. By organizing this data in an interactive dashboard, we seek to provide homebuyers a straightforward tool to select a home based on their preferences.
 
+<img width="1255" alt="Austin Housing Summary" src="https://github.com/user-attachments/assets/3871d7d6-2be1-4f3d-8a20-55c841a7b3b1">
+
+<img width="1256" alt="Austin Housing Features" src="https://github.com/user-attachments/assets/1e18e487-49c7-4878-8400-3372099c7d89">
+
+
 ### Data Sources
 
 Real estate data: The main dataset used for this report is the “austinHousingData.xlsx” file, which holds information about listings in the Austin housing market.
