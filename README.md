@@ -1,6 +1,6 @@
 # ATXHomes Austin Real Estate Insights
 
-## Interactive Power BI dashboard can be downloaded [here](https://www.microsoft.com).
+## Interactive Power BI dashboard can be downloaded [here](https://github.com/ddolgova/Austin_Housing/blob/main/Austin%20Housing%20Report_final.pbix).
 
 ## Table of Contents
 
